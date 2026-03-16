@@ -2,7 +2,7 @@
 #### A Data Scientist | Machine Learning Enthusiast <br/>
 ##### Turning complex data into intelligent, scalable, and impactful systems.<br/>
 ---
-### 🚀 About Me <br/>
+### 🚀 About Me <n/>
 ##### 🎓 A Civil Engineering graduate with a strong analytical foundation and a passion for solving -real-world problems using data.<br/>
 ##### 🧠 I specialize in Machine Learning, Natural Language Processing (NLP), and Deep Learning, building end-to-end AI systems that drive decision-making. <br/>
 ##### ☁️ Currently expanding my knowledge in Generative AI, MLOps, and cloud-native ML solutions on AWS <br/>
