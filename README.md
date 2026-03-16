@@ -10,10 +10,20 @@
 ---
 ### 🧠 Areas of Expertise 
 - ##### 🤖 Machine Learning & Deep Learning
+- ##### 🧠 Natural Language Processing (LLMs, Transformers)
+- ##### 📊 Data Analysis & Predictive Modeling
+- ##### 🔬 Computer Vision
+- ##### ☁️ Cloud ML: AWS
+---
+### 🧰 Tools & Technologies
+- ##### Languages: Python, SQL
+- ##### ML/DL Libraries: scikit-learn, TensorFlow, Keras, PyTorch, XGBoost
+- ##### NLP/CV: Hugging Face Transformers, OpenCV
+- ##### Data Tools: Pandas, NumPy, Power BI, Excel
+--- 
+### 💬 Let's Connect
+- ##### [Linkedin](https://www.linkedin.com/in/santhoshgovindarajan/)
+- ##### [Github](https://github.com/Santhosh-Govindarajan)
 
-👩🏻‍💻 Civil Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Civil Engineering](https://kongu.ac.in/) at Kongu Engineering College, Perundurai<br/>
-🎨 Exploring the nature with my bike<br/>
-💭 Currently learning about [Data Science](https://www.guvi.in) at Guvi, IITM, Chennai<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Santhosh-Govindarajan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
