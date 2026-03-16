@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Santhosh!
-#### A Data Scientist | Machine Learning Engineer | AI/GenAI Enthusiast <br/>
+#### A Data Scientist | Machine Learning Enthusiast <br/>
 ##### Turning complex data into intelligent, scalable, and impactful systems.<br/>
 ---
 ### 🚀 About Me <br/>
@@ -8,7 +8,8 @@
 ##### ☁️ Currently expanding my knowledge in Generative AI, MLOps, and cloud-native ML solutions on AWS <br/>
 ##### 🔍 My core strength lies in translating messy data into clear insights, models, and products that scale.<br/>
 ---
-
+### 🧠 Areas of Expertise <br/>
+- ##### 🤖 Machine Learning & Deep Learning
 
 👩🏻‍💻 Civil Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Civil Engineering](https://kongu.ac.in/) at Kongu Engineering College, Perundurai<br/>
