@@ -8,7 +8,7 @@
 ##### ☁️ Currently expanding my knowledge in Generative AI, MLOps, and cloud-native ML solutions on AWS <br/>
 ##### 🔍 My core strength lies in translating messy data into clear insights, models, and products that scale.<br/>
 ---
-### 🧠 Areas of Expertise <br/>
+### 🧠 Areas of Expertise 
 - ##### 🤖 Machine Learning & Deep Learning
 
 👩🏻‍💻 Civil Engineer sharing about my journey and learnings in tech<br/>
