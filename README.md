@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Santhosh!
----A Data Scientist | Machine Learning Engineer | AI/GenAI Enthusiast
+A Data Scientist | Machine Learning Engineer | AI/GenAI Enthusiast
 Turning complex data into intelligent, scalable, and impactful systems.
+---
 ### 🚀 About Me <br/>
 ##### 🎓 A Civil Engineering graduate with a strong analytical foundation and a passion for solving -real-world problems using data.<br/>
 ##### 🧠 I specialize in Machine Learning, Natural Language Processing (NLP), and Deep Learning, building end-to-end AI systems that drive decision-making. <br/>
