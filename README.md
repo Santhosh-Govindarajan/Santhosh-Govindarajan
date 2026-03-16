@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Santhosh!
-#### A Data Scientist | Machine Learning Engineer | AI/GenAI Enthusiast
+#### A Data Scientist | Machine Learning Engineer | AI/GenAI Enthusiast <br/>
 #####Turning complex data into intelligent, scalable, and impactful systems.
 ---
 ### 🚀 About Me <br/>
